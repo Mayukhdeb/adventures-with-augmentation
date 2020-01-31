@@ -7,3 +7,4 @@ Exploring and experimenting with microscope imagery datasets. :microscope:
 2. Experiment with the augmentation techniques and reach a high accuracy on the test set
 3. Implement transfer learning with image resizing to reach high accuracies in less that half the time it's supposed to take
 4. Trying to implement parallel CNNs for better accuracies on smaller architectures
+5. Plotting and comparing confusion matrices of different architectures 
