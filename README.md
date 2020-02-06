@@ -17,4 +17,3 @@ Exploring and experimenting with microscope imagery datasets. :microscope:
 * Because when two different architectures are trained on the same training set, they don't have the same weaknesses (i.e different confusion matrices) 
 * This means that when both are combined, they tend to neutralise each other's weaknesses, which gives us a boost in accuracy.
 
-In a nutshell, teamwork applies to CNNs as well
