@@ -20,3 +20,11 @@ Exploring and experimenting with microscope imagery datasets. :microscope:
 * Because when two different architectures are trained on the same training set, they don't have the same weaknesses (i.e different confusion matrices) 
 * This means that when both are combined, they tend to neutralise each other's weaknesses, which gives us a boost in accuracy.
 
+## Class activation heatmaps on deep neural networks
+
+<img src="sample_images/original_comma.png" width="40%"> <img src="sample_images/heatmap.png" width="50%">.
+
+* Shows the regions of the image which gave the most activations for a certain label in a trained classification model
+* In simpler words, it tells us about the regions of the image which made the model decide that it belongs to a certain label "x"
+#### And when the heatmap is superimposed upon the real image, it gives us an insight on how the CNN "looked" at the image
+<img src="sample_images/superimposed.png" width="60%" class = "center">
