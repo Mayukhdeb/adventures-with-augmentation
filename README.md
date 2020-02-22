@@ -26,5 +26,12 @@ Exploring and experimenting with microscope imagery datasets. :microscope:
 
 * Shows the regions of the image which gave the most activations for a certain label in a trained classification model
 * In simpler words, it tells us about the regions of the image which made the model decide that it belongs to a certain label "x"
+
+## Determining location of cells from images 
+<img src="sample_images/cell_detect_pipeline.png" width="100%" class = "center">
+
 #### And when the heatmap is superimposed upon the real image, it gives us an insight on how the CNN "looked" at the image
 <img src="sample_images/superimposed.png" width="60%" class = "center">
+
+
+
