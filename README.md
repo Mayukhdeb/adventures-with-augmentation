@@ -12,7 +12,7 @@ Exploring and experimenting with microscope imagery datasets. :microscope:
 4. Trying to implement parallel CNNs for better accuracies on smaller architectures
 5. Plotting and comparing confusion matrices of different architectures 
 
-## Parallel CNNs work just as good as they look
+## Parallel CNNs are just as good as they look
 
 <img src="parallel_cnn.jpg" width="80%">.
 
