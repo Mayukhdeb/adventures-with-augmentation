@@ -14,7 +14,7 @@ Exploring and experimenting with microscope imagery datasets. :microscope:
 
 ## Parallel CNNs are just as good as they look
 
-<img src="parallel_cnn.jpg" width="80%">.
+<img src="parallel_cnn.jpg" width="120%">.
 
 ### But why use them anyways ?
 * Because when two different architectures are trained on the same training set, they don't have the same weaknesses (i.e different confusion matrices) 
