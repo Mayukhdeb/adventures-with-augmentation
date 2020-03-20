@@ -15,6 +15,7 @@ Exploring and experimenting with microscope imagery datasets. :microscope:
 ## Transfer learning with image resizing
 * It aims to achieve the benefits of transfer learning on a large architecture on a smaller one
 * It works by first training the model on smaller images, and then gradually increasing the size.
+* Takes a lot less time than conventional training approaches, in this case it achieved 12% more accuracy (98% instead of 86%) in one fifth of the time.
 
 <img src="sample_images/training_curve.png" width="100%" class = "center">
 
