@@ -6,20 +6,23 @@ Exploring and experimenting with microscope imagery datasets. :microscope:
 
 ## Simulating fluidity of cells with random distortions 
 
-<img src="sample_images/blood.gif" width="40%">.
+<img src="sample_images/blood.gif" width="40%" class = "center">.
 
 ## 
 
 ## [Parallel CNNs are just as good as they look](https://github.com/Mayukhdeb/adventures-with-augmentation/blob/master/parallel_CNNs.ipynb)
 
 
-<img src="parallel_cnn.jpg" width="120%">.
+<img src="parallel_cnn.jpg" width="120%" class = "center">.
 
 ### But why use them anyways ?
 * Because when two different architectures are trained on the same training set, they don't have the same weaknesses (i.e different confusion matrices) 
 * This means that when both are combined, they tend to neutralise each other's weaknesses, which gives us a boost in accuracy.
 
 ## [Transfer learning with image resizing](https://github.com/Mayukhdeb/adventures-with-augmentation/blob/master/c_elegans_lifecycle.ipynb)
+
+<img src="sample_images/transfer_learning.png" width="60%" class = "center">
+
 
 
 * It aims to achieve the benefits of transfer learning on a large architecture on a smaller one
